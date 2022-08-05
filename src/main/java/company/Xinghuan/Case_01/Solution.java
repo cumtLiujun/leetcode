@@ -1,4 +1,4 @@
-package Xinghuan.Case_01;
+package company.Xinghuan.Case_01;
 
 import java.util.ArrayList;
 
