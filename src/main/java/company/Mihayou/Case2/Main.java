@@ -72,7 +72,7 @@ public class Main {
                                 k_ph -= 10;
                                 v_ph -= 20;
                                 v_ph -= Math.max((k_att - v_def), 0);
-                                kz_flag = true
+                                kz_flag = true;
                             }
                         } else {
                             if (!kz_flag) {
